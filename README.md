@@ -18,7 +18,7 @@ I build practical and user-friendly systems using PHP, Laravel, MySQL, and moder
 
 ### 🔹 CareerConnect (Final Year Project)
 A comprehensive internship management system for UiTM students and supervisors.  
-- Built with **Laravel + MySQL**  
+- Tech stack: **Laravel, MySQL, HTML/CSS, JavaScript, Bootstrap**
 - Supports real-time internship tracking, document submission, and approval workflow  
 - Reduced paperwork and manual processes
 
@@ -38,9 +38,9 @@ A government web system to digitize technical approval processes for ICT-related
 
 ### 🔹 Meeting Room Booking System (MBJB)
 A web-based internal booking system for the IT Department at MBJB.  
-- Built using **PHP, MySQL, HTML/CSS, JavaScript**  
+- Tech stack: **PHP, MySQL, HTML/CSS, JavaScript**  
 - Calendar-based interface with real-time availability  
-- Reduced booking confusion and improved room usage tracking
+- Reduced booking conflicts and improved room usage tracking
 
 👉 *[Add GitHub Repo Link Here]*
 
@@ -67,8 +67,8 @@ Worked on real government systems, including ICT approval workflow and public in
 ## 📫 Contact Me
 📍 Johor Bahru, Malaysia  
 📧 Email: **aireancorve@gmail.com**  
-📱 Phone: **+6010-287 0049**  
-🌐 LinkedIn: *[Add Your LinkedIn URL]*
+📱 Phone: *Available upon request*  
+🌐 LinkedIn:
 
 ---
 
